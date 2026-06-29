@@ -15,5 +15,10 @@ int main(){
     cout<<"dividing b by c using typecasting to convert them to float :"<<b/(float)c<<endl;
     cout<<endl;
     cout<<"Typecasting b and c from int to char :"<<(char)b<<" "<<(char)c<<endl;
+
+    cout<<"to print ascii value of a char typecast it to int "<<endl;
+    char x;
+    cin>>x;
+    cout<<(int)x<<endl;
 }
  
