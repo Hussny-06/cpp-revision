@@ -9,7 +9,8 @@ Practice programs covering core C++ concepts, built as part of my Computer Engin
 | 1 | **Basics** | 12 | Variables, I/O, arithmetic operators, increment/decrement, typecasting, operator hierarchy |
 | 2 | **Conditionals** | 11 | If-else, nested conditions, multi-condition logic, grade systems, quadrant determination |
 | 3 | **Loops** | 15 | For, while, do-while, break/continue, digit manipulation, series printing (AP/GP) |
-| 4 | **Pattern Printing** | — | *In progress* |
+| 4 | **Pattern Printing** | 18 | Star, number, letter patterns, hollow shapes, X pattern, rhombus |
+| 5 | **Functions** | — | *In progress* |
 
 ## How to Run
 
@@ -29,6 +30,7 @@ C++/
 ├── 2_Conditionals/
 ├── 3_Loops/
 ├── 4_PatternPrinting/
+├── 5_Functions/
 └── README.md
 ```
 
